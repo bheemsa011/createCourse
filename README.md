@@ -6,7 +6,7 @@ This API provides endpoints to manage courses.
 
 ### Home
 
-- **URL:** /
+- **URL:**  http://localhost:4000/
 - **Method:** GET
 - **Description:** Returns a welcome message.
 
