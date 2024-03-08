@@ -12,7 +12,7 @@ This API provides endpoints to manage courses.
 
 ### Create Course
 
-- **URL:** /create-course
+- **URL:** http://localhost:4000//create-course
 - **Method:** POST
 - **Description:** Creates a new course.
 - **Request Body:** JSON object representing the course to be created.
@@ -32,7 +32,7 @@ This API provides endpoints to manage courses.
 
 ### Get All Courses
 
-- **URL:** /get-all
+- **URL:** http://localhost:4000/get-all
 - **Method:** GET
 - **Description:** Retrieves all courses.
 - **Response:** JSON array containing all courses.
